@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+Hi, I am very enthusiastic about becoming able to program softwares and I am studying like 5-6 gours everyday lately to get to that goal. I started reading HeadFirst HTMLS/CSS at June 1st, and till date, I am very comfortable with HTML/CSS and using it to make static websites. I am also studying HeadFirst Java Script and I still have two chapters that I need to study to the end of the book. I am also studying in Free Code Camp to catch up on any newer concepts. I am currently working on the projects of responsive web design and hoe to get certificates soon. During my free time, I am working on a wedding portfolio project for my sister and brother-in-law with the help of tutorials and google.
